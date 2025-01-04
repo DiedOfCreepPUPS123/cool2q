@@ -1,0 +1,143 @@
+body{
+    background-image: linear-gradient(rgb(49,49,49),rgb(41,41,41));
+}
+header h1{
+    color: white;
+    text-align: center;
+    background-color: rgb(40, 40, 40);
+    border-radius: 10px;
+    border: solid rgb(37, 37, 37) 3px;
+    padding: -5px;
+               box-shadow: 0 5px 10px -5px rgba(0, 0, 0, 0.75);
+}
+header h1:hover{
+       transform: scale(1.025);
+       box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
+   transition: 0.2s linear;
+}
+.videosH{
+    color: white;
+    text-align: center;
+    background-color: rgb(40, 40, 40);
+    border-radius: 10px;
+    border: solid rgb(37, 37, 37) 3px;
+    padding: -5px;
+               box-shadow: 0 5px 10px -5px rgba(0, 0, 0, 0.75);
+}
+.videosH:hover{
+       transform: scale(1.025);
+       box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
+   transition: 0.2s linear;
+}
+nav a{
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    text-decoration: none;
+}
+nav{
+  margin-top: 25px;
+      background-color:#272727;
+    border: 3px solid rgb(37, 37, 37);
+    border-radius: 25px;
+           box-shadow: 0 5px 10px -5px rgba(0, 0, 0, 0.75);
+           text-align: center;
+}
+nav:hover{
+  margin-top: 30px;
+  
+background-color: #292929;
+  transition: 0.3s linear;
+}
+.Metro{
+    background-color: #272727;
+    margin-top: 20px;
+    border: 3px solid rgb(34, 34, 34);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.Metro:hover{
+    margin-top: 30px;
+    transition: 0.3s;
+
+}
+.Metro a{
+        text-decoration: none;
+        color: white;
+}
+.Metro a:hover{
+    color: rgb(217, 217, 217)   ;
+    font-size: 20.1px;
+    transition: 0.3s;
+}
+.Stalker{
+    background-color: #272727;
+    margin-top: 20px;
+    border: 3px solid rgb(34, 34, 34);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.Stalker:hover{
+    margin-top: 30px;
+    transition: 0.3s;
+
+}
+.Stalker a{
+        text-decoration: none;
+        color: white;
+}
+.Stalker a:hover{
+    color: rgb(217, 217, 217)   ;
+    font-size: 20.1px;
+    transition: 0.3s;
+}
+.Doom{
+    background-color: #272727;
+    margin-top: 20px;
+    border: 3px solid rgb(34, 34, 34);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.Doom:hover{
+    margin-top: 30px;
+    transition: 0.3s;
+
+}
+.Doom a{
+        text-decoration: none;
+        color: white;
+}
+.Doom a:hover{
+    color: rgb(217, 217, 217)   ;
+    font-size: 20.1px;
+    transition: 0.3s;
+}
+.Portal{
+    background-color: #272727;
+    margin-top: 20px;
+    border: 3px solid rgb(34, 34, 34);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.Portal:hover{
+    margin-top: 30px;
+    transition: 0.3s;
+
+}
+.Portal a{
+        text-decoration: none;
+        color: white;
+}
+.Portal a:hover{
+    color: rgb(217, 217, 217)   ;
+    font-size: 20.1px;
+    transition: 0.3s;
+}
+.ps{
+    color: rgb(92, 92, 92);
+    font-size: 15px;
+}
